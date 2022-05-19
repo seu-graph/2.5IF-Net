@@ -1,4 +1,4 @@
-# 2.5D-PIFu
+# 2.5IF-Net
 The code will be published soon
 ![image](https://github.com/seu-graph/2.5D-PIFu/blob/main/qresult.png)
 
